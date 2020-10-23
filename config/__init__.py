@@ -18,7 +18,7 @@ APP_CODE = 'testdemo'
 # SaaS安全密钥，注意请勿泄露该密钥
 SECRET_KEY = '7088b7be-5c6f-412e-b404-7e8c865baf9d'
 # 蓝鲸SaaS平台URL，例如 http://paas.bking.com
-BK_URL = None
+BK_URL = 'http://paas116.bktencent.com:80'
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(
