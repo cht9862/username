@@ -16,7 +16,7 @@ RUN_VER = 'open'
 # SaaS应用ID
 APP_CODE = 'testdemo'
 # SaaS安全密钥，注意请勿泄露该密钥
-SECRET_KEY = '8d5525d6-f8b6-465b-bc78-0324a8ae4131'
+SECRET_KEY = '7088b7be-5c6f-412e-b404-7e8c865baf9d'
 # 蓝鲸SaaS平台URL，例如 http://paas.bking.com
 BK_URL = None
 
